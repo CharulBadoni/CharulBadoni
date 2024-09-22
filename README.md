@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharulBadoni
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning Google Cloud Platform and CI/CD
-- 📫 How to reach me charul.badoni@chartboost.com
+- 📫 How to reach me charul1896@gmail.com
 
 <!---
 CharulBadoni/CharulBadoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
